@@ -4,10 +4,10 @@
 
 <!-- Buttons for Website, Gmail, LinkedIn -->
 <p align="center">
-  <a href="mailto:cf">
+  <a href="mailto:cfragiadakis@hotmail.gr">
     <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/christoforos-fragiadakis/)">
+  <a href="https://www.linkedin.com/in/christoforos-fragiadakis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
