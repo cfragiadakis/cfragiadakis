@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christoforos Fragkiadakis</h1>
 
-
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5649097ee4b021b7ebf4ce9d/1630013248675-T2EOX77WP7HJ9A5P8WN8/press-any-key-any-key.gif" alt="Profile Image" width="600">
+</p>
 
 <!-- Buttons for Website, Gmail, LinkedIn -->
 <p align="center">
@@ -51,7 +53,5 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
 - ⚡ Fun fact: ...
 
 
-<p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="Profile Image" width="600">
-</p>
+
 -->
