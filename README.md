@@ -16,7 +16,7 @@
 
 🖥️ I am working as a Data Scientist at [Grant Thornton Greece](https://www.grant-thornton.gr/)
 
-🎓 I have graduated from the Department of Management, Science and Technology from [Athens University of Economics and Business](https://www.aueb.gr/)
+🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
 
 👨‍💻 You can find my projects [here](https://github.com/cfragiadakis?tab=repositories)
 
