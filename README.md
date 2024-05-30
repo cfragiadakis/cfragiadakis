@@ -59,6 +59,9 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/>
   </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5u043Wyl-BWnUo9FcWSuh2hv62v-Kc98WQ&s" alt="tableau" width="40" height="40" title="Tableau"/>
+  </a>
 </p>
 
 
