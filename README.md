@@ -9,6 +9,9 @@
   <a href="mailto:cfragiadakis@hotmail.gr">
     <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
+  <a href="https://cfragiadakis.github.io/">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge">
+  </a>
   <a href="https://www.linkedin.com/in/christoforos-fragiadakis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
