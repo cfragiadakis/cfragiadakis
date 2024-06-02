@@ -23,6 +23,8 @@
 
 🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
 
+🚀 You can find my website [here](https://cfragiadakis.github.io//)
+
 👨‍💻 You can find my projects [here](https://github.com/cfragiadakis?tab=repositories)
 
 🌱 I’m currently learning **Tensorflow and Keras**
