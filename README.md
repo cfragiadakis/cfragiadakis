@@ -77,12 +77,3 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfragiadakis&" alt="cfragiadakis" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfragiadakis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**cfragiadakis/cfragiadakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- ⚡ Fun fact: ...
-
--->
