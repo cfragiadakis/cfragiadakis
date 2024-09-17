@@ -19,7 +19,7 @@
 
 ### 👦 About me
 
-🖥️ I am working as a Data Scientist at [EY Greece](https://www.ey.com/el_gr)
+🖥️ I am working as a Data Scientist at [EY](https://www.ey.com/el_gr)
 
 🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
 
