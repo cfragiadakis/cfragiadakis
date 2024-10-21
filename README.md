@@ -58,6 +58,9 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" title="Seaborn"/>
   </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40" title="Streamlit"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   </a>
