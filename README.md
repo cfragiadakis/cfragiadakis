@@ -19,6 +19,8 @@
 
 ### 👦 About me
 
+🎓 I am currently pursuing a Master's degree in Information Studies (Data Science track) at the [University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html#:~:text=The%20Data%20Science%20Master%27s%20programme%20has%20been%20developed,organisational%20and%20social%20implications%20these%20solutions%20may%20have.)
+
 🖥️ I am working as a Data Scientist at [EY](https://www.ey.com/el_gr)
 
 🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
@@ -26,8 +28,6 @@
 🚀 You can find my website [here](https://cfragiadakis.github.io//)
 
 👨‍💻 You can find my projects [here](https://github.com/cfragiadakis?tab=repositories)
-
-🌱 I’m currently learning **Tensorflow and Keras**
 
 📫 How to reach me: **cfragiadakis@hotmail.gr**
 
