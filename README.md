@@ -19,7 +19,7 @@
 
 ### 👦 About me
 
-🎓 I am currently pursuing a Master's degree in Information Studies (Data Science track) at the [University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html#:~:text=The%20Data%20Science%20Master%27s%20programme%20has%20been%20developed,organisational%20and%20social%20implications%20these%20solutions%20may%20have.)
+🎓 In June I am finishing my Master's degree in Information Studies (Data Science track) at the [University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html#:~:text=The%20Data%20Science%20Master%27s%20programme%20has%20been%20developed,organisational%20and%20social%20implications%20these%20solutions%20may%20have.)
 
 🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
 
@@ -33,7 +33,7 @@
 
 ### 📊 My last project
 
-Analysis of Roget's lexicon, using web scraping and machine learning techniques, you can find it [here](https://github.com/cfragiadakis/Roget-Thesaurus-Classification).
+Classification of bird species by implementing ResNet from scratch, you can find it [here](https://github.com/cfragiadakis/AML-2025-Feathers-in-focus)
 
 ---
 
@@ -49,6 +49,9 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-learn"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="35" height="35" title="PyTorch"/>
   </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40" title="NLTK"/>
@@ -74,4 +77,3 @@ Analysis of Roget's lexicon, using web scraping and machine learning techniques,
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfragiadakis&" alt="cfragiadakis" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfragiadakis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
