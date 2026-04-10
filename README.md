@@ -33,7 +33,7 @@
 
 ### 📊 My last project
 
-Classification of bird species by implementing ResNet from scratch, you can find it [here](https://github.com/cfragiadakis/AML-2025-Feathers-in-focus)
+Classification of bird species by implementing ResNet18 from scratch, you can find it [here](https://github.com/cfragiadakis/AML-2025-Feathers-in-focus)
 
 ---
 
