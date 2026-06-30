@@ -29,12 +29,6 @@
 
 📫 How to reach me: **cfragiadakis@hotmail.gr**
 
---- 
-
-### 📊 My last project
-
-Classification of bird species by implementing ResNet18 from scratch, you can find it [here](https://github.com/cfragiadakis/AML-2025-Feathers-in-focus)
-
 ---
 
 <h3 align="left">⌨️ Languages and Tools</h3>
