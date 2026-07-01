@@ -25,8 +25,6 @@
 
 🚀 You can find my website [here](https://cfragiadakis.github.io//)
 
-👨‍💻 You can find my projects [here](https://github.com/cfragiadakis?tab=repositories)
-
 📫 How to reach me: **cfragiadakis@hotmail.gr**
 
 ---
