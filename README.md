@@ -19,7 +19,7 @@
 
 ### 👦 About me
 
-🎓 In June I am finishing my Master's degree in Information Studies (Data Science track) at the [University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html#:~:text=The%20Data%20Science%20Master%27s%20programme%20has%20been%20developed,organisational%20and%20social%20implications%20these%20solutions%20may%20have.)
+🎓 Currently pursuing a Master's degree in Information Studies (Data Science track) at the [University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html#:~:text=The%20Data%20Science%20Master%27s%20programme%20has%20been%20developed,organisational%20and%20social%20implications%20these%20solutions%20may%20have.)
 
 🎓 I have graduated from [Athens University of Economics and Business](https://www.aueb.gr/)
 
